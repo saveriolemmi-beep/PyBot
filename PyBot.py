@@ -48,4 +48,4 @@ async def execute_python_code(interaction: discord.Interaction, code: str):
 
     await interaction.followup.send(final_response)
 
-bot.run("MTU1NDU1MjQzNTA5MDEzNzE3OQ.GuTXMB.b5afzN9mlzE4K8uX-uGLjVbWuiNv1AqgZzikZ0")
+bot.run("MTU1NDU1MjQzNTA5MDEzNzE3OQ.GzmKL2.DSZGgB40OJg3Pq3zhZsBP6SJuFZntlcR-UFdMQ")
